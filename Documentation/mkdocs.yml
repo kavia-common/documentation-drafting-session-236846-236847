@@ -1,0 +1,5 @@
+site_name: Demo Docs
+nav:
+  - Home: index.md
+  - Usage: usage.md
+  - Configuration: configuration.md
